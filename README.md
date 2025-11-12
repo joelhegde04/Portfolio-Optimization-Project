@@ -13,6 +13,6 @@ Allows user-defined tickers (up to 3 for demonstration)
 
 Technologies Used
 Python
-NumPy, Pandas — data handling & calculations
-Matplotlib, Seaborn — data visualization
-yfinance — fetching historical data
+NumPy, Pandas data handling & calculations
+Matplotlib, data visualization
+yfinance fetching historical data
